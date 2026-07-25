@@ -13,7 +13,7 @@ This Privacy Policy describes how the Android app **EzBudget** (package name `co
 The developer and person responsible for this App is:
 
 **CurtisQT**
-Email: [kurt.qt.brandl@gmail.com](mailto:kurt.qt.brandl@gmail.com)
+Email: [curtis.qt.apps@gmail.com](mailto:curtis.qt.apps@gmail.com)
 
 For any question, request, or concern regarding privacy or this policy, please contact the email address above.
 
@@ -109,4 +109,4 @@ This Privacy Policy may be updated from time to time, for example if new feature
 
 ## 13. Contact
 
-Questions about this Privacy Policy or the App's data practices can be sent to: **[kurt.qt.brandl@gmail.com](mailto:kurt.qt.brandl@gmail.com)**
+Questions about this Privacy Policy or the App's data practices can be sent to: **[curtis.qt.apps@gmail.com](mailto:curtis.qt.apps@gmail.com)**

@@ -13,7 +13,7 @@ Diese Datenschutzerklärung beschreibt, wie die Android-App **EzBudget** (Paketn
 Verantwortlich für diese App im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 **CurtisQT**
-E-Mail: [kurt.qt.brandl@gmail.com](mailto:kurt.qt.brandl@gmail.com)
+E-Mail: [curtis.qt.apps@gmail.com](mailto:curtis.qt.apps@gmail.com)
 
 Bei Fragen, Anliegen oder Anträgen zum Datenschutz wenden Sie sich bitte an die oben genannte E-Mail-Adresse.
 
@@ -109,4 +109,4 @@ Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden, etwa wenn
 
 ## 13. Kontakt
 
-Fragen zu dieser Datenschutzerklärung oder zum Umgang der App mit Daten richten Sie bitte an: **[kurt.qt.brandl@gmail.com](mailto:kurt.qt.brandl@gmail.com)**
+Fragen zu dieser Datenschutzerklärung oder zum Umgang der App mit Daten richten Sie bitte an: **[curtis.qt.apps@gmail.com](mailto:curtis.qt.apps@gmail.com)**
