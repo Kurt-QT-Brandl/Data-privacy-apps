@@ -1,0 +1,18 @@
+# Link check for the published Markdown files.
+# lychee 0.24 skips mailto unless include_mail is true.
+
+verbose = "info"
+no_progress = true
+max_redirects = 5
+timeout = 20
+max_retries = 3
+include_mail = false
+
+# Owner decision (audit finding 2). The published EzBudget policies link to
+# .../blob/main/ezbudget/... (lowercase). GitHub paths are case-sensitive, so
+# those URLs 404. The files stay at EzBudget/. Remove both patterns after the
+# owner updates the links in the policy text.
+exclude = [
+  "^https://github\\.com/Kurt-QT-Brandl/Data-privacy-apps/blob/main/ezbudget/dataprivacy\\.md$",
+  "^https://github\\.com/Kurt-QT-Brandl/Data-privacy-apps/blob/main/ezbudget/datenschutz-DE\\.md$",
+]

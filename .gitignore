@@ -1,0 +1,20 @@
+# Local IDE and OS files
+.idea/
+.DS_Store
+
+# Secrets. .env.example stays committable (GIT-07).
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Temp and build output. Lockfiles are not ignored.
+tmp/
+node_modules/
+target/
+dist/
+.terraform/
+*.tfstate
+*.tfstate.*
